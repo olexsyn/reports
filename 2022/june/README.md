@@ -71,7 +71,7 @@
 - **створення репозитариїв** для
   - розробки [технічного завдання](https://github.com/ukrmeteo/meteqdb-prd)
   - [програмного коду](https://github.com/ukrmeteo/meteqdb-src)
-  - [опису ПЗ](https://github.com/ukrmeteo/meteqdb-decs)
+  - [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs)
   - [ведення списку задач](https://github.com/ukrmeteo/meteqdb-src/issues)
 - читання технічної документації
 - вирішення поточних проблем, що виникли в процесі роботи
