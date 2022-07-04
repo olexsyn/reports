@@ -47,8 +47,8 @@
   - встановлення веб-сервера Apache
     - модулі (mod-python, mod_rewrite, )
     - створення [самопідписаного ключа та сертифікатів OpenSSL](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04)
-    - конфігураційний файл сайту (.conf)
-    - локальна конфігурація (.htaccess)
+    - конфігураційний файл сайту ([.conf](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps))
+    - локальна конфігурація ([.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html))
   - встановлення сервера баз даних MySQL
     - створення адміністратора БД (доступ для адміністрування)
     - створення користувача БД (доступ для ПЗ)
