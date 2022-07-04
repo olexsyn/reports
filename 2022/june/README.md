@@ -33,7 +33,7 @@
   - файловий менеджер ([double commander](https://doublecmd.sourceforge.io/))
   - програми порівняння коду ([meld](https://meldmerge.org/), [diffuse](http://diffuse.sourceforge.net/))
   - розподілена система керування версіями ([git](https://github.com/git/git))
-  - більш зручні програми перегляду графічних документів (в т.ч. PSD, PDF) та плагіни ([gwenview](https://apps.kde.org/gwenview/), [okular](https://okular.kde.org/))
+  - більш зручні програми перегляду графічних документів ([gwenview](https://apps.kde.org/gwenview/), [okular](https://okular.kde.org/)) та плагіни (в т.ч. для форматів PSD, EPS)
 
 ### Налаштування засобів для тестування
 
@@ -64,15 +64,15 @@
 - **налаштування SSH-доступу** для віддаленого налашування сайту, роботи з БД, запуску скриптів
 - **створення користувачів БД** (адмін, звичайний користувач для під'єднання до БД через ПЗ, що розробляється)
 
-
 ### Інше
 
-- **реєстрація на GitHub [акаунту УГМЦ](https://github.com/ukrmeteo)** для розробки, зберігання та розповсюдження
-  - [технічного завдання](https://github.com/ukrmeteo/meteqdb-prd)
+- **реєстрація на GitHub [акаунту УГМЦ](https://github.com/ukrmeteo)** для розробки, зберігання та розповсюдження.
+- створення/імпорт [ключів SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- **створення репозитариїв** для
+  - розробки [технічного завдання](https://github.com/ukrmeteo/meteqdb-prd)
   - [програмного коду](https://github.com/ukrmeteo/meteqdb-src)
   - [опису ПЗ](https://github.com/ukrmeteo/meteqdb-decs)
-  - [ведення задач](https://github.com/ukrmeteo/meteqdb-src/issues)
-- створення/імпорт [ключів SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+  - [ведення списку задач](https://github.com/ukrmeteo/meteqdb-src/issues)
 - читання технічної документації
 - вирішення поточних проблем, що виникли в процесі роботи
 - записи знайдених рішень до особистої бази знань
