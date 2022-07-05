@@ -45,9 +45,9 @@
 
 - встановлення необхідного ПЗ та налаштування:
   - встановлення веб-сервера Apache
-    - модулі (mod-python, mod_rewrite, )
+    - підключення модулів ([mod_python](https://modpython.org/), [mod_rewrite](https://httpd.apache.org/docs/current/mod/mod_rewrite.html), [ssi](https://olexsyn.github.io/e-note/apache/ssi/))
     - створення [самопідписаного ключа та сертифікатів OpenSSL](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04)
-    - конфігураційний файл сайту ([.conf](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps))
+    - конфігурація віртуального хоста ([.conf](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps))
     - локальна конфігурація ([.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html))
   - встановлення сервера баз даних MySQL
     - створення адміністратора БД (доступ для адміністрування)
@@ -62,7 +62,9 @@
 - **реєстрація SSL-сертифікату** для безпечної передачі даних від користувача до БД
 - **налаштування FTP-доступу** до сервера для завантаження коду сторінок, скриптів та ін. даних
 - **налаштування SSH-доступу** для віддаленого налашування сайту, роботи з БД, запуску скриптів
-- **створення користувачів БД** (адмін, звичайний користувач для під'єднання до БД через ПЗ, що розробляється)
+- **створення БД, та користувачів**:
+  - адміністратор БД (доступ до БД для адміністрування)
+  - користувач БД (доступ до БД через ПЗ, що розробляється)
 
 ### Інше
 
