@@ -68,13 +68,10 @@
 
 ### Інше
 
-- **реєстрація на GitHub [акаунту УГМЦ](https://github.com/ukrmeteo)** для розробки, зберігання та розповсюдження.
+- **реєстрація на GitHub [акаунту УГМЦ](https://github.com/ukrmeteo)** для зберігання, контролю та розповсюдження.
 - створення/імпорт [ключів SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - **створення репозитариїв** для
-  - розробки [технічного завдання](https://github.com/ukrmeteo/meteqdb-prd)
-  - [програмного коду](https://github.com/ukrmeteo/meteqdb-src)
-  - [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs)
-  - [ведення списку задач](https://github.com/ukrmeteo/meteqdb-src/issues)
+- створення репозитарію [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs)
 - ознайомлення з технічною документацією
 - вирішення поточних проблем, що виникали в процесі роботи
 - нотування знайдених рішень до особистої бази знань
