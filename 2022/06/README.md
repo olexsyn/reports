@@ -44,15 +44,15 @@
 ### Налаштування локального сайту для розробки БД
 
 - встановлення необхідного ПЗ та налаштування:
-  - встановлення веб-сервера Apache
+  - [встановлення веб-сервера Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
     - підключення модулів ([mod_python](https://modpython.org/), [mod_rewrite](https://httpd.apache.org/docs/current/mod/mod_rewrite.html), [ssi](https://olexsyn.github.io/e-note/apache/ssi/))
     - створення [самопідписаного ключа та сертифікатів OpenSSL](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04)
     - конфігурація віртуального хоста ([.conf](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps))
     - локальна конфігурація ([.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html))
-  - встановлення сервера баз даних MySQL
+  - [встановлення сервера баз даних MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
     - створення адміністратора БД (доступ для адміністрування)
     - створення користувача БД (доступ для ПЗ)
-  - віртуальне середовище розробки МП Python
+  - [віртуальне середовище](https://docs.python.org/3/library/venv.html) розробки МП Python
     - встановлення необхідних бібліотек (mysql-connector, ninja2)
 
 ### Налагодження сайту в мережі Інтернет
@@ -75,7 +75,7 @@
   - [програмного коду](https://github.com/ukrmeteo/meteqdb-src)
   - [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs)
   - [ведення списку задач](https://github.com/ukrmeteo/meteqdb-src/issues)
-- читання технічної документації
-- вирішення поточних проблем, що виникли в процесі роботи
-- записи знайдених рішень до особистої бази знань
+- ознайомлення з технічною документацією
+- вирішення поточних проблем, що виникали в процесі роботи
+- нотування знайдених рішень до особистої бази знань
 
