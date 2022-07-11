@@ -11,6 +11,10 @@
 
 - [Оцифрував, відредагував список станцій](https://github.com/ukrmeteo/meteqdb-decs/tree/main/branches)
 
+## 11 ПН
+
+- правка репозиторію [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs) (users, session **ще незакінчено**)
+
 ## План:
 - розробка сторінок реєстрації, авторизації та відновлення паролю
 
