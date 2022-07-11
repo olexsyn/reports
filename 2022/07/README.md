@@ -21,7 +21,7 @@
 > [Failed to load module "xapp-gtk3-module"](https://www.google.com/search?q=Failed+to+load+module+xapp-gtk3-module)  
 > погуглив, встановив модуль: `sudo apt install xapp` 
 
-> Помилка **MySQL** при творенні користувача БД: [Your password does not satisfy the current policy requirements](https://stackoverflow.com/questions/43094726/your-password-does-not-satisfy-the-current-policy-requirements). Рішення за посиланням.
+> Помилка **MySQL** при творенні користувача БД: [Your password does not satisfy the current policy requirements](https://stackoverflow.com/questions/43094726/your-password-does-not-satisfy-the-current-policy-requirements). Рішення за посиланням. Занотував.
 
 
 ## План:
