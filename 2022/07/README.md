@@ -15,6 +15,13 @@
 
 - правка репозиторію [опису структури БД](https://github.com/ukrmeteo/meteqdb-decs) (users, session **ще незакінчено**)
 
+**проблеми**
+
+при зрівнянні файлів програма diffuse видала помилку
+[Failed to load module "xapp-gtk3-module"](https://www.google.com/search?q=Failed+to+load+module+xapp-gtk3-module)
+
+погуглив, встановив модуль: `sudo apt install xapp` 
+
 ## План:
 - розробка сторінок реєстрації, авторизації та відновлення паролю
 
