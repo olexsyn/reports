@@ -17,9 +17,8 @@
 
 **проблеми**
 
-при зрівнянні файлів програма diffuse видала помилку
-[Failed to load module "xapp-gtk3-module"](https://www.google.com/search?q=Failed+to+load+module+xapp-gtk3-module)
-
+при зрівнянні файлів програма **diffuse** видала помилку
+[Failed to load module "xapp-gtk3-module"](https://www.google.com/search?q=Failed+to+load+module+xapp-gtk3-module)  
 погуглив, встановив модуль: `sudo apt install xapp` 
 
 ## План:
